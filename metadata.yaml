@@ -1,0 +1,56 @@
+_repo: Meine-zweite-Weltreise-b-Dritter-Theil-Kalifornien-Peru-Ecuador_75640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pfeiffer, Ida
+    alias: Pfeiffer, Ida Reyer
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '3807'
+    url: http://www.gutenberg.org/2009/agents/3807
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
+    - https://de.wikipedia.org/wiki/Ida_Pfeiffer
+description: 'Reading ease score: 68.6 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Travel & Geography'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75640'
+language: de
+pgterms:marc904: https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1078834
+pgterms:marc905: 20220611110859pfeiffer
+pgterms:marc906: '1856'
+pgterms:marc907: at
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by eBooks on Demand
+  at the University of Vienna.)
+publication_note: '  $aWien :$bCarl Gerold, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcc 'G'
+- GITenberg
+summary: '"Meine zweite Weltreise: Dritter Theil: Kalifornien. Peru. Ecuador." by
+  Ida Pfeiffer is a travelogue written in the mid-19th century. This work details
+  the author''s experiences and observations as she journeys through California, Peru,
+  and Ecuador, exploring the landscapes, cultures, and peoples she encounters along
+  the way. Pfeiffer, a pioneering female traveler of her time, invites readers to
+  experience her adventurous encounters and reflections as she navigates these new
+  territories.  The opening of this travelogue introduces Pfeiffer''s extensive journey
+  from Batavia to San Francisco. Chronicling her experiences aboard the ship Seneca
+  Baltimore, she describes the vast distances traveled over the ocean and her initial
+  impressions of San Francisco upon arrival. She paints a vivid picture of the city''s
+  landscape—an impression that is both awe-inspiring and starkly barren. Pfeiffer
+  offers intricate details about the local society, customs, and the high cost of
+  living there, all while showcasing her keen observational skills and deep interest
+  in the unique cultures she meets, setting the stage for her broader explorations
+  of California, Peru, and Ecuador in subsequent chapters. (This is an automatically
+  generated summary.)'
+title: 'Meine zweite Weltreise : $b Dritter Theil : Kalifornien. Peru. Ecuador.'
+url: http://www.gutenberg.org/ebooks/75640
