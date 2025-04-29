@@ -1,5 +1,8 @@
 _repo: Meine-zweite-Weltreise-b-Dritter-Theil-Kalifornien-Peru-Ecuador_75640
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75640-h/images/cover.jpg
 creator:
   author:
     agent_name: Pfeiffer, Ida
@@ -13,6 +16,8 @@ creator:
     - https://de.wikipedia.org/wiki/Ida_Pfeiffer
 description: 'Reading ease score: 68.6 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75640#Meine-zweite-Weltreise-b-Dritter-Theil-Kalifornien-Peru-Ecuador
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Travel & Geography'
